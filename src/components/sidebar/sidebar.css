@@ -30,7 +30,11 @@
 }
 
 .sidebarItem>img {
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
     margin-top: 15px;
+    border-radius: 5px;
 }
 
 .sidebarItem>p {
