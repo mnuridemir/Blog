@@ -9,6 +9,10 @@
     align-items: center;
 }
 
+.sidebarDesc {
+    font-family: 'Lora', serif;
+}
+
 .sidebarItem {
     display: flex;
     flex-direction: column;
